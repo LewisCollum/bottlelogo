@@ -1,5 +1,5 @@
-[[./label_black.svg]]
+[[./path/label_black.svg]]
 
-[[./label_mocha.svg]]
+[[./path/label_mocha.svg]]
 
-[[./cap.svg]]
+[[./path/cap.svg]]
