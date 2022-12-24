@@ -1,0 +1,5 @@
+[[./label_black.svg]]
+
+[[./label_mocha.svg]]
+
+[[./cap.svg]]
