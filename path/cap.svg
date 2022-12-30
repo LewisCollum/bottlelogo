@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.2601823"
-     inkscape:cx="55.968937"
-     inkscape:cy="13.052045"
+     inkscape:cx="27.652637"
+     inkscape:cy="13.494487"
      inkscape:window-width="1265"
      inkscape:window-height="1034"
      inkscape:window-x="1285"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g19407" />
   <defs
      id="defs31240" />
   <g
@@ -209,7 +209,7 @@
         </g>
       </g>
       <circle
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0508;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.0508;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          id="path14436"
          cx="32.212738"
          cy="27.343859"
